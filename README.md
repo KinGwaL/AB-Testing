@@ -11,12 +11,12 @@ A/B testing provide a data driven way to verify the change of will have a good c
 
 
 # Example of A/B testing
-## UI change
-The preference of user could be tested by A/B testing, by changing different color of the button, font size and measuring the preference, developer could conclude the most popular layout at the time.
+1.  UI change
+    The preference of user could be tested by A/B testing, by changing different color of the button, font size and measuring the preference, developer could conclude the most popular layout at the time.
 
 
-## Notification
-A/B testing also allow the developer to send different notification to different testing group. By sending different notification (or no notification) to different testing group. A/B test could conclude the optimum number of notification and content that most of the user prefer and result in a popular application.
+2.  Notification
+    A/B testing also allow the developer to send different notification to different testing group. By sending different notification (or no notification) to different testing group. A/B test could conclude the optimum number of notification and content that most of the user prefer and result in a popular application.
 
 
 ## Change in style of writing
@@ -48,7 +48,7 @@ In country like China, Cuba, Iran, North Korea, most of the Google services are 
 A/B test that contain unknown bug might discourage user to use and try the app again losing potential customers. Minimise the test group to 5-10% could result in less affect to the user community.
 
 
-## #Not all users are willing to Participate in testing experience
+## Not all users are willing to Participate in testing experience
 Conducting A/B test without the user consent or aware might result in consumer dissatisfaction. The dissatisfaction might be amplified by media result in huge consequences
 
 
